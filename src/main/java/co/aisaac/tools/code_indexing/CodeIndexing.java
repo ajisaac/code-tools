@@ -9,7 +9,6 @@ import java.util.stream.Stream;
 public class CodeIndexing {
     /*
     A small web app to more easily search our code and index everything.
-
      */
 
     public static void main(String[] args) {
